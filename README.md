@@ -17,8 +17,8 @@ into something somebody can actually use.*
 ### What I build
 
 I work at both ends of the same problem. On one side, models that make a
-decision and can defend it: a flight-price classifier whose threshold is chosen
-by dollars saved rather than F1, a mine detector selected by sensitivity
+decision and can defend it: *Buy Now or Wait*, a flight-price classifier whose
+threshold is chosen by dollars saved rather than F1, a mine detector selected by sensitivity
 because a false negative is a mine on the seabed. On the other, software that
 people open every day: a finance app that parses *"dinner with friends 45
 euros"*, a rental dashboard whose security lives in Postgres rather than in the
