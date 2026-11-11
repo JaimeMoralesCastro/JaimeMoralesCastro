@@ -24,6 +24,15 @@ people open every day: a finance app that parses *"dinner with friends 45
 euros"*, a rental dashboard whose security lives in Postgres rather than in the
 front end, a scheduling app running inside a real car rental company.
 
+What I am actually after is the part at the end: the decision a piece of
+analysis supports, and what it is worth to run the business that way. The same
+reasoning that says *buy this flight now* sizes a safety stock, picks a
+replenishment point, schedules a fleet or decides which route to cut — a
+threshold is a threshold, and the cost matrix behind it is where the money is.
+That is where I want to work: **business and industrial logistics**, operations
+and supply chain, turning a model's output into an operating rule somebody can
+actually follow.
+
 ---
 
 ### Projects
